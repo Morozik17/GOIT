@@ -1,0 +1,71 @@
+.port-one {
+  color: black;
+}
+
+.port-twee {
+  color: rgb(33, 150, 243);
+}
+
+.port-drie {
+  color: white;
+}
+
+.port-vier {
+  color: rgb(33, 150, 243);
+}
+
+.one-bg:hover {
+  background-color: rgb(33, 150, 243);
+}
+
+.twee-bg:hover {
+  background-color: rgb(33, 150, 243);
+}
+
+.drie-bg:hover {
+  background-color: rgb(33, 150, 243);
+}
+
+.vier-bg:hover {
+  background-color: rgb(33, 150, 243);
+}
+
+.vijf-bg:hover {
+  background-color: rgb(33, 150, 243);
+}
+
+.bg {
+  background-color: rgb(47, 48, 58);
+}
+
+.one-p {
+  color: white;
+}
+
+.twee-p {
+  color: white;
+}
+
+.drie-p {
+  color: white;
+}
+
+.st-one:hover {
+  color: rgb(33, 150, 243);
+}
+
+.pr-twee:hover {
+  color: rgb(33, 150, 243);
+}
+
+.cont-drie:hover {
+  color: rgb(33, 150, 243);
+}
+
+.info-one:hover {
+  color: #2196f3;
+}
+
+.nomb-twee:hover {
+  color: #2196f3;
+}
