@@ -1,59 +1,253 @@
+.link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+}
+
 .q1 {
-  color: #2196f3;
+    font-family: 'Raleway', sans-serif;
+    color: #2196f3;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
 }
 
 .k1 {
-  color: black;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
 }
 
 .q2 {
-  color: #2196f3;
+    font-family: 'Raleway', sans-serif;
+    color: #2196f3;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
 }
 
 .k2 {
-  color: white;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
 }
 
 .sty-one:hover {
-  color: #2196f3;
+    color: #2196f3;
 }
 
 .portf-twee:hover {
-  color: #2196f3;
+    color: #2196f3;
 }
 
 .con-drie:hover {
-  color: #2196f3;
+    color: #2196f3;
 }
 
 .inf-one:hover {
-  color: #2196f3;
+    color: #2196f3;
 }
 
 .nom-twee:hover {
-  color: #2196f3;
+    color: #2196f3;
 }
 
 .fot-bg {
-  background-color: rgb(47, 48, 58);
+    background-color: rgb(47, 48, 58);
 }
 
 .col-one {
-  color: white;
+    color: white;
 }
 
 .col-twee {
-  color: white;
+    color: white;
 }
 
 .col-drie {
-  color: white;
+    color: white;
 }
 
 .button-one {
-  background-color: #2196f3;
+    background-color: #2196f3;
 }
 
 .button-one {
-  color: white;
+    color: white;
+}
+
+.visually-hidden {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0 !important;
+    border: 0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+}
+
+.section-one {
+    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #757575;
+}
+
+.font-one {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: black;
+}
+
+.font-twee {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: black;
+}
+
+.font-drie {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: black;
+}
+
+.font-vier {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: black;
+}
+
+.sty-one {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+.portf-twee {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+
+.con-drie {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+
+.inf-one {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+
+.nom-twee {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+
+.bot-one {
+    background: #2f303a;
+}
+
+.effect {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+
+    color: #ffffff;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button-one {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+
+    color: #ffffff;
 }
