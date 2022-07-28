@@ -201,7 +201,7 @@
     line-height: 16px;
     letter-spacing: 0.02em;
 
-    color: #212121;
+    color: #757575;
 }
 
 .nom-twee {
@@ -212,7 +212,7 @@
     line-height: 16px;
     letter-spacing: 0.02em;
 
-    color: #212121;
+    color: #757575;
 }
 
 .bot-one {
@@ -250,4 +250,47 @@
     letter-spacing: 0.06em;
 
     color: #ffffff;
+    background: #2196f3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+
+.section-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+}
+
+.team-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+}
+
+.team-p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #757575;
 }
