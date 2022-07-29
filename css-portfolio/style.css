@@ -1,71 +1,203 @@
+.link-one {
+    color: inherit;
+    text-decoration: none;
+}
+
+.list-one {
+    list-style: none;
+}
+
 .port-one {
-  color: black;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+    letter-spacing: 0.03em;
+
+    color: #000000;
 }
 
 .port-twee {
-  color: rgb(33, 150, 243);
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+    letter-spacing: 0.03em;
+
+    color: #2196f3;
 }
 
 .port-drie {
-  color: white;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+    letter-spacing: 0.03em;
+
+    color: #ffffff;
 }
 
 .port-vier {
-  color: rgb(33, 150, 243);
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+    letter-spacing: 0.03em;
+
+    color: #2196f3;
 }
 
 .one-bg:hover {
-  background-color: rgb(33, 150, 243);
+    background-color: rgb(33, 150, 243);
 }
 
 .twee-bg:hover {
-  background-color: rgb(33, 150, 243);
+    background-color: rgb(33, 150, 243);
 }
 
 .drie-bg:hover {
-  background-color: rgb(33, 150, 243);
+    background-color: rgb(33, 150, 243);
 }
 
 .vier-bg:hover {
-  background-color: rgb(33, 150, 243);
+    background-color: rgb(33, 150, 243);
 }
 
 .vijf-bg:hover {
-  background-color: rgb(33, 150, 243);
+    background-color: rgb(33, 150, 243);
 }
 
 .bg {
-  background-color: rgb(47, 48, 58);
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 1628px;
+
+    background: #2f303a;
 }
 
 .one-p {
-  color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.03em;
+
+    color: #ffffff;
 }
 
 .twee-p {
-  color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.03em;
+
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .drie-p {
-  color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.03em;
+
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .st-one:hover {
-  color: rgb(33, 150, 243);
+    color: rgb(33, 150, 243);
 }
 
 .pr-twee:hover {
-  color: rgb(33, 150, 243);
+    color: rgb(33, 150, 243);
 }
 
 .cont-drie:hover {
-  color: rgb(33, 150, 243);
+    color: rgb(33, 150, 243);
 }
 
 .info-one:hover {
-  color: #2196f3;
+    color: #2196f3;
 }
 
 .nomb-twee:hover {
-  color: #2196f3;
+    color: #2196f3;
+}
+
+.st-one {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+
+.pr-twee {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+
+.cont-drie {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #212121;
+}
+
+.info-one {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #757575;
+}
+
+.nomb-twee {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #757575;
 }
