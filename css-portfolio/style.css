@@ -20,6 +20,10 @@
     color: #000000;
 }
 
+.port-one:hover {
+    color: #2196f3;
+}
+
 .port-twee {
     font-family: 'Raleway';
     font-style: normal;
@@ -44,6 +48,18 @@
     letter-spacing: 0.03em;
 
     color: #ffffff;
+}
+
+.port-drie:hover {
+    color: #2196f3;
+}
+
+.twee-p:hover {
+    color: #2196f3;
+}
+
+.drie-p:hover {
+    color: #2196f3;
 }
 
 .port-vier {
@@ -198,6 +214,137 @@
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+
+    color: #757575;
+}
+
+.one-bg {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 162%;
+    /* identical to box height, or 162% */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+    background: #f5f4fa;
+    border-radius: 4px;
+    border: 0;
+}
+
+.twee-bg {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 162%;
+    /* identical to box height, or 162% */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+    background: #f5f4fa;
+    border-radius: 4px;
+    border: 0;
+}
+
+.drie-bg {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 162%;
+    /* identical to box height, or 162% */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+    background: #f5f4fa;
+    border-radius: 4px;
+    border: 0;
+}
+
+.vier-bg {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 162%;
+    /* identical to box height, or 162% */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+    background: #f5f4fa;
+    border-radius: 4px;
+    border: 0;
+}
+
+.vijf-bg {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 162%;
+    /* identical to box height, or 162% */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+    background: #f5f4fa;
+    border-radius: 4px;
+    border: 0;
+}
+
+.one-bg:hover {
+    color: white;
+}
+
+.twee-bg:hover {
+    color: white;
+}
+
+.drie-bg:hover {
+    color: white;
+}
+
+.vier-bg:hover {
+    color: white;
+}
+
+.vijf-bg:hover {
+    color: white;
+}
+
+.zagolovok {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 200%;
+    /* identical to box height, or 200% */
+
+    letter-spacing: 0.06em;
+
+    color: #212121;
+}
+
+.text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 188%;
+    /* identical to box height, or 188% */
+
+    letter-spacing: 0.03em;
 
     color: #757575;
 }
