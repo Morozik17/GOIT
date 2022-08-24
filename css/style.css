@@ -228,6 +228,7 @@
     height: 600px;
     left: 0px;
     top: 93px;
+
     background: #2f303a;
 }
 
@@ -246,6 +247,7 @@
     color: #ffffff;
 
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 690px;
 }
 
 .button-one {
@@ -396,15 +398,127 @@
     background-color: #188ce8;
 }
 
-.container {
-    width: 1200px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-left: auto;
-    margin-right: auto;
+.effect {
+    position: absolute;
+    width: 696px;
+    height: 120px;
+    left: 452px;
+    top: 280px;
 }
 
-.effect {
-    padding-top: 200px;
-    padding-bottom: 210px;
+.section-title-one {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.font-one {
+    position: absolute;
+    width: 270px;
+    height: 16px;
+    left: 215px;
+    top: 774px;
+}
+
+.p-one {
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 215px;
+    top: 800px;
+}
+
+.font-twee {
+    position: absolute;
+    width: 270px;
+    height: 16px;
+    left: 515px;
+    top: 774px;
+}
+
+.p-twee {
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 515px;
+    top: 800px;
+}
+
+.font-drie {
+    position: absolute;
+    width: 270px;
+    height: 16px;
+    left: 815px;
+    top: 774px;
+}
+
+.p-drie {
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 815px;
+    top: 800px;
+}
+
+.font-vier {
+    position: absolute;
+    width: 270px;
+    height: 16px;
+    left: 1116px;
+    top: 774px;
+}
+
+.p-vier {
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 1115px;
+    top: 800px;
+}
+
+.section-one {
+    padding-top: 94px;
+    display: flex;
+}
+
+.section {
+    display: flex;
+}
+
+.igor {
+    padding-right: 30px;
+}
+
+.olga {
+    padding-right: 30px;
+}
+.mykola {
+    padding-right: 30px;
+}
+
+.mykhola {
+    padding-right: 30px;
+}
+
+.computer-one {
+    padding-right: 30px;
+}
+
+.computer-twee {
+    padding-right: 30px;
+}
+
+.k2 {
+    margin-left: 215px;
+}
+
+.col-drie {
+    margin-left: 215px;
+}
+
+.col-one {
+    margin-left: 215px;
+}
+
+.footer-pad {
+    padding-top: 60px;
 }
